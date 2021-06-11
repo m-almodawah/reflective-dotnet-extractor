@@ -1,5 +1,5 @@
 # reflective-dotnet-extractor
-
+'''
 usage: rde.py [-h] File Directory
 
 .Net Assembly Dumper V 1.0. Author: Mohammed Almodawah. This tool allows you to dump .Net Assemblies from a process memory dump.
@@ -10,3 +10,4 @@ positional arguments:
 
 optional arguments:
   -h, --help  show this help message and exit
+'''

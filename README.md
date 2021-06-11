@@ -14,3 +14,20 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
+
+Example:
+
+```
+user@host:~/# python rde.py YourProcessDump.mem YourOutputFolder/
+
+Author: Mohammed Almodawah
+
+.Net Assembly Dumper V 1.0
+
+Dumping .Net Assemblies.....
+
+File Name:  ToBeInjected.dll
+MD5 Hash:   b25963c28e958c3686362dd3ea7774fd
+Load Type:  [Reflective Loading]
+
+```

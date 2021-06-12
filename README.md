@@ -31,3 +31,6 @@ MD5 Hash:   b25963c28e958c3686362dd3ea7774fd
 Load Type:  [Reflective Loading]
 
 ```
+
+Whatch this video for more information (Arabic):
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/HCPM0CAipbc/0.jpg)](https://youtu.be/HCPM0CAipbc".Net Reflective Loading")

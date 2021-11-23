@@ -32,5 +32,5 @@ Load Type:  [Reflective Loading]
 
 ```
 
-Whatch this video for more information (Arabic):
+Watch this video for more information (Arabic):
 https://youtu.be/HCPM0CAipbc
